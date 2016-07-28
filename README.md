@@ -1,2 +1,2 @@
 # chargingsystemDocumentation
-Documentation of the master thesis "Charging system for mobile robots with ROS".
+Documentation of the master thesis "Charging dock system for mobile robots with ROS".
